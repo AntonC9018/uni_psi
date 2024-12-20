@@ -154,7 +154,7 @@ ci să definim o altă specificație pentru oul care poate fi mâncat și deja s
 
 Acest principiu descrie proprietățile unei ierarhii de clase.
 
-În programarea modernă, *Liskov substituion principle* nu mai este relevant, deoarece moștenirea nu se mai utilizează, fiind substituită de microservicii și interfețe. 
+În programarea modernă, *Liskov substituion principle* nu mai este relevant, deoarece moștenirea nu se mai utilizează, fiind substituită de servicii și interfețe. 
 Moștenirea se utilizează în mare parte ca un mixin, util pentru a introduce unele proprietăți, fie un fel de boilerplate, direct într-o clasă, ceea ce nu a fost obiectivul inițial al moștenirii.
 Însă chiar în așa cazuri ea este de obicei una simplă (de cel mult un nivel).
 
